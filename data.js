@@ -1,8 +1,8 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0-living-room-updated",
-      "name": "Living Room updated",
+      "id": "0-rajeev",
+      "name": "rajeev",
       "levels": [
         {
           "tileSize": 256,
@@ -24,8 +24,8 @@ var APP_DATA = {
       ],
       "faceSize": 1500,
       "initialViewParameters": {
-        "yaw": 0.019223753137890043,
-        "pitch": 0.011931415257624423,
+        "yaw": -0.009021267627932872,
+        "pitch": 0.025353395470132156,
         "fov": 1.3337680586201845
       },
       "linkHotspots": [],
